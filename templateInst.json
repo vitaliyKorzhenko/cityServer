@@ -1,0 +1,191 @@
+[{
+  "name" : "Puzata Hata",
+  "russian_name": "Пузатая хата",
+  "lat": "49.993312",
+  "lon": "36.232352",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "3"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Symskaya str, 2",
+  "russian_address": "ул. Сумская, 2",
+  "marker": "mSov",
+  "phone": "+38057-766-90-31",
+  "hours": "08-00 - 22-00 All Day"
+},
+{
+  "name" : "AltBier",
+  "russian_name": "AltBier ",
+  "lat": "50.011699",
+  "lon": "36.238637",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "9"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Kultury str, 8",
+  "russian_address": "ул. Культуры, 8",
+  "marker": "mNayk",
+  "phone": "+38097-727-27-27",
+  "hours": "08-00 - 22-00 All Day"
+
+},
+{
+  "name" : "Beer & Man",
+  "russian_name": "Beer & Man",
+  "lat": "50.006206",
+  "lon": "36.236959",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "8"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Symskaya str, 78",
+  "russian_address": "ул. Сумская, 78",
+  "marker": "mNayk",
+  "phone": "+38057-700-44-74",
+  "hours": "00-00 - 24-00 All Day"
+},
+{
+  "name" : "Dublin",
+  "russian_name": "Dublin",
+  "lat": "50.011868",
+  "lon": "36.227876",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "8"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Pr. Nauki, 12",
+  "russian_address": "пр. Науки, 12",
+  "marker": "mNayk",
+  "phone": "+38057-754-51-21",
+  "hours": "10-00 - 24-00 All Day"
+
+},
+{
+  "name" : "Fat Goose Pub",
+  "russian_name": "Fat Goose Pub",
+  "lat": "50.015065",
+  "lon": "36.220213",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "9"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Kosmicheskaya, 21",
+  "russian_address": "Космическая, 21",
+  "marker": "mNayk",
+  "phone": "+38057-716-53-16",
+  "hours": "00-00 - 24-00 All Day"
+
+},
+{
+  "name" : "Lavka",
+  "russian_name": "Лавка",
+  "lat": "50.011542",
+  "lon": "36.232950",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "7"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Kultury str, 11 ",
+  "russian_address": "ул. Культуры, 11",
+  "marker": "mNayk",
+  "phone": "+38067-87-75-151",
+  "hours": "10-00 - 23-00 All Day"
+
+},
+{
+  "name" : "Lounge bar M.e.e.t",
+  "russian_name": "M.E.E.T лаунж",
+  "lat": "50.003827",
+  "lon": "36.252146",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "7"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Chaikovskogo str, 6",
+  "russian_address": "ул. Чайковского, 6",
+  "marker": "mPyshk",
+  "phone": "+38073-320-75-66",
+  "hours": "10-00 - 02-00 All Day"
+
+},
+{
+  "name" : "Park Misto",
+  "russian_name": "Парк Місто",
+  "lat": "50.021360",
+  "lon": "36.213043",
+  "categories": [
+    {"name":"Burgers", "rating": "10"},
+    {"name":"Pizza", "rating": "7"},
+    {"name":"Sushi", "rating": "6"},
+    {"name":"Breakfast", "rating": "7"},
+    {"name":"Dinner", "rating": "7"},
+    {"name":"Lunch", "rating": "7"},
+    {"name":"Hookah", "rating": "7"},
+    {"name": "Gastro Pub", "rating": "8"},
+    {"name": "Steaks", "rating": "4"},
+    {"name": "Desserts", "rating": "5"}
+  ],
+  "address": "Klochkovsky str, 190А",
+  "russian_address": "ул. Клочковская, 190А",
+  "marker": "mNayk",
+  "phone": "+38057-758-17-03",
+  "hours": "08-00 - 23-00 All Day"
+
+}
+]
