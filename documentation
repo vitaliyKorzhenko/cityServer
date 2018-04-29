@@ -1,0 +1,46 @@
+Register form
+Login form
+Logout function
+Login with social media accounts
+Lost password
+Customers favourite categories
+User profile
+User id
+User phone
+User firstname
+User lastname
+User email
+User birthday
+User gender
+User activity
+User favourites
+Change favourites
+Favourites weight
+User geo tracking
+Category filter
+Add to short list (short term favourites)
+Click on locale/pic to visit full companies profile
+Short description
+Logo/Pictures
+Call company from companies profile
+Check in (big button)
+Scroll down companies
+Review functionality: Ask mendatory for review after 2-3 hours
+Review questions:
+1.	were you satisfied with „name of locale“? yes, no
+2.	if yes
+how satisfied were you with „name of locale“ 1-10 scala (ask for strong points, free text form)
+3.	if no
+how satisfied were you with „name of locale“ 1-10 scala
+(ask for weak points, free text form)
+
+
+
+
+///Companies backend:
+
+Set: (+add campaign, remove campaign)
+Analyse: track how many check ins
+
+
+
