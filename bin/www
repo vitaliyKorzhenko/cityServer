@@ -44,15 +44,20 @@ models.sequelize.sync().then(function() {
 
     io.on('connection', function(socket){
         console.log('a user connected');
-
-
         socket.on('userLogin',function (data) {
             console.log("userLogin Data: " + JSON.stringify(data));
+        });
+
+        socket.on('visitUser', function (data) {
+             console.log('visit ' + JSON.stringify(data));
+
         })
 
-    })
+    });
+
 
 })
+
 
 
 
