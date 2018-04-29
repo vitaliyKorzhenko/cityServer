@@ -5,11 +5,25 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
+var Umzug = require('umzug'),
+    DataTypes = require('sequelize/lib/data-types');
+
 var index = require('./routes/index');
 var users = require('./routes/users');
 var admin =  require('./routes/admin');
 
-
+var migrator,
+    db,
+    queue,
+    app,
+    globals,
+    ev,
+    currentMigration = null,
+    pendingMigrations = [],
+    migrator,
+    Sync,
+    Schedule,
+    Tasks;
 
 var app = express();
 
@@ -36,7 +50,6 @@ app.use(function(req, res, next) {
   err.status = 404;
   next(err);
 });
-
 // // error handler
 // app.use(function(err, req, res, next) {
 //   // set locals, only providing error in development
