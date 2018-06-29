@@ -6,6 +6,7 @@ module.exports = {
             login : 'blackGod',
             password : 'genby[etcjc2018',
             enabled:true ,
+            role: 'super_admin',
             createdAt : new Date(),
             updatedAt : new Date(),
 
@@ -13,6 +14,7 @@ module.exports = {
             login : 'alex_l',
             password : 'Alex_l123alex_l',
             enabled:true ,
+            role: 'super_admin',
             createdAt : new Date(),
             updatedAt : new Date(),
         }], {});
