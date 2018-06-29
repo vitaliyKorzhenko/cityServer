@@ -8,7 +8,7 @@ var CategoryController = require('../controllers/CategoryController');
 // /* GET users listing. */
 router.get('/', function(req, res, next) {
     res.render('admin');
-})
+});
 
 router.get('/category', function(req, res, next) {
     res.render('category');
