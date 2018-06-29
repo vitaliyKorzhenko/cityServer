@@ -12,7 +12,9 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 
-var models = require('../db/models');
+// var models = require('../db/models');
+
+var db = require('../db/models');
 
 var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
