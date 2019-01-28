@@ -21,7 +21,7 @@ var server = http.createServer(app);
  var UserController = require('./controllers/UserController');
 var io = require('socket.io')(server);
 
-models.sequelize.sync({force:true}).then(function() {
+models.sequelize.sync().then(function() {
     /**
      * Listen on provided port, on all network interfaces.
      */
