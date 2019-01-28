@@ -9,5 +9,6 @@ router.get('/', function (req, res, next) {
     res.render('index', {title: 'Express'});
 });
 
-module.exports = router;
+router.use('/users', require('./v1/users'));
 
+module.exports = router;
